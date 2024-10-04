@@ -1,0 +1,19 @@
+# Ignore Arduino specific files
+arduino/
+
+# Ignore Maven target directory
+target/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore JAR files
+*.jar
+
+# Ignore Eclipse project settings
+.settings/
+.project
+.classpath
